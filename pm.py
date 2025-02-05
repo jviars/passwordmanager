@@ -179,7 +179,7 @@ class ModernPasswordManagerGUI(QMainWindow):
         """)
 
     def init_ui(self):
-        self.setWindowTitle("Password Manager")
+        self.setWindowTitle("TigerPass")
         # This is the window size, if anyone wants to change it.
         self.setMinimumSize(1000, 800)
         if os.path.exists(self.pm.db_file):
@@ -341,7 +341,7 @@ class ModernPasswordManagerGUI(QMainWindow):
         header = QLabel("2FA Setup")
         header.setStyleSheet("font-size: 24px; font-weight: bold; color: white;")
         layout.addWidget(header, alignment=Qt.AlignmentFlag.AlignCenter)
-        uri = self.totp.provisioning_uri(name=email, issuer_name="Password Manager")
+        uri = self.totp.provisioning_uri(name=email, issuer_name="TigerPass")
         qr = qrcode.QRCode(box_size=10, border=2)
         qr.add_data(uri)
         qr.make(fit=True)
