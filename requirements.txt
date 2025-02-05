@@ -1,0 +1,6 @@
+pycryptodome
+pyotp
+PyQt6
+qrcode
+pillow
+qdarktheme
