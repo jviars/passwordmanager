@@ -2,10 +2,11 @@
 
 A modern, open-source, secure password management application built with Python, featuring encryption, two-factor authentication, and a user-friendly GUI interface.
 
-Images
-![image](https://github.com/user-attachments/assets/5b588f47-7324-4dae-8551-3e326b464922)
-![image](https://github.com/user-attachments/assets/3ab5d47c-26ee-4da4-b9f6-37918742fbf7)
-![image](https://github.com/user-attachments/assets/61b9464e-ec3e-43df-b0a2-1749a7b3c0c5)
+# Images
+![image](https://github.com/user-attachments/assets/e443ec33-4fbf-46e9-8bb6-3b530f22cd15)
+![image](https://github.com/user-attachments/assets/b591a93e-b338-48fb-9d37-e19502074a9e)
+![image](https://github.com/user-attachments/assets/b83748a4-576b-40d2-9dd0-7ed48a23bfd3)
+![image](https://github.com/user-attachments/assets/8a038d92-67bc-44ad-8508-79a4a9129a37)
 
 
 ## Features
