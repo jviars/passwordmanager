@@ -1,4 +1,4 @@
-# Secure Password Manager
+# TigerPass - An Open-Source, Secure Password Manager
 
 A modern, open-source, secure password management application built with Python, featuring encryption, two-factor authentication, and a user-friendly GUI interface.
 
@@ -28,8 +28,8 @@ Images
 
 1. Clone the repository
 ```bash
-git clone https://github.com/jviars/passwordmanager.git
-cd passwordmanager
+git clone https://github.com/jviars/tigerpass.git
+cd tigerpass
 ```
 
 2. Install required packages
